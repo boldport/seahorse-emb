@@ -40,13 +40,15 @@
 	  "layers": ["top"],
           "style": "stroke",
 	  "stroke-width": 0.25,
-       	  "diameter": 6.5
+       	  "diameter": 6.5,
+          "location": [0,4]
         },
         {
           "type": "circle",
 	  "layers": ["top"],
           "style": "fill",
-       	  "diameter": 5.5
+       	  "diameter": 5.5,
+          "location": [0,4]
         }
       ]
     },
